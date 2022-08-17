@@ -1,0 +1,16 @@
+INFO:root:Hello Python
+INFO:root:3.0
+INFO:root:7
+INFO:root:1 = a
+INFO:root:2= b
+INFO:root:2 = a
+INFO:root:1= b
+INFO:root:70
+INFO:root:A1-Hello Python
+INFO:root:A2-7
+INFO:root:A3-3.0
+INFO:root:1 = a
+INFO:root:2= b
+INFO:root:2 = a
+INFO:root:1= b
+INFO:root:A5-Random no. 78
